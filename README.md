@@ -60,7 +60,7 @@ In this assignment, you will create a simple web application with two pages: a L
 ## Reference Designs
 
 - **Login page:**
-  ![Login Page Design](path/to/login-page-design.png)
+![Login Page Design:](https://github.com/user-attachments/assets/5e92fd15-4218-401f-bc7f-120960d30759)
 
 - **Index page:**
   ![Index Page Design](path/to/index-page-design.png)
