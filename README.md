@@ -63,4 +63,5 @@ In this assignment, you will create a simple web application with two pages: a L
 ![Login Page Design:](https://github.com/user-attachments/assets/5e92fd15-4218-401f-bc7f-120960d30759)
 
 - **Index page:**
-  ![Index Page Design](path/to/index-page-design.png)
+  ![Index Page Design:](https://github.com/user-attachments/assets/c97b88a8-15d4-4850-b8dc-7c87daf0d719)
+
